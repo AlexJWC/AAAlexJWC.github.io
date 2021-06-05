@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "【全专歌词解析】《Dreaming Put Loud》"
 date:   2021-06-05 23:08:41 +0800
-categories: albums
+image: DOL.jpg
+description: 解析Dreaming Put Loud全专歌词
 ---
 I'm Alex.这一分区我将研读OneRepublic的专辑《Dreaming Out Loud》的全部歌词。
 
@@ -43,7 +44,7 @@ PAL Bonus Track：
 Dreaming Out Loud
 Apologize(remix)
 
-附加：
+附加：（其余全部版本）
 Something's Not Right Here
 Hearing Voices
 Sleep (Remix)
