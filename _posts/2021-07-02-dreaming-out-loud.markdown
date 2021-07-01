@@ -1,0 +1,273 @@
+---
+layout: post
+title:  "【全专歌词解析】《Dreaming Put Loud》"
+date:   2021-06-05 23:08:41 +0800
+image: ../DOL.jpg
+description: 解析Dreaming Put Loud全专歌词
+---
+Hi,I'm Alex.这一分区我将研读OneRepublic的专辑《Dreaming Out Loud》的全部歌词。 
+我挖了一个大坑，我知道。
+
+乐队简介：
+OneRepublic是来自科罗拉多斯普林斯的一支流行摇滚乐队，于2002年创建。他们的歌曲风格是流行+抒情+激昂。
+
+乐队成员：
+主唱|Ryan Tedder (2002-至今) 担任乐队的人声、键盘、节奏吉他和打击乐。
+
+吉他|Zach Filkins（2002-至今）担任乐队的首席吉他、中提琴、伴唱
+
+伴唱|Drew Brown（2002-至今）担任乐队的节奏吉他、键盘、打击乐、伴唱
+
+鼓手|Eddie Fisher (2005-至今) 担任乐队的鼓手、打击乐
+
+贝斯+提琴|Brent Kutzle（2007-至今）担任乐队的低音吉他、大提琴、伴唱
+
+键盘|Brian Willett（2012-至今）担任乐队的键盘、鼓手、打击乐、伴唱
+
+乐队照片：
+
+专辑简介：
+![alt jpg](../dolcd.jpg)
+此专为OneRepublic的首张专辑，由Interscope Records发行于9.20.2007。这张专辑里收录了乐队早期的许多名曲，如《Apologize》《All Fall Down》。整专的风格偏向为柔情+激昂，比较适合平时听欧美抒情的人。
+
+曲目一览（点击跳转单曲歌词赏析）
+
+标准版本：  
+1.[Say(All I Need)](#aa)  
+2.Mercy  
+3.Stop and Stare  
+4.Apologize  
+5.Goodbye, Apathy  
+6.All Fall Down  
+7.Tyrant  
+8.Prodigal  
+9.Won't Stop  
+10.All We Are  
+11.Some to Save You  
+12.Come Home  
+13.Apologize(remix)  
+
+PAL Bonus Track：  
+Dreaming Out Loud
+Apologize(remix)  
+
+附加：（其余全部版本）  
+Something's Not Right Here   
+Hearing Voices  
+Sleep (Remix)  
+Stop and Stare (Live video)  
+Apologize (Live video)  
+All Fall Down (Live video)  
+All We Are (Original version)  
+Too Easy (included in the "Stop and Stare" 3 Hit Pack on iTunes)  
+Trap Door  
+Sleep (Non-LP Version)  
+Come Home (featuring Sara Bareilles)  
+Mercy (Radio 1 Live Lounge)(Duffy cover)  
+All Fall Down (Live @ The Orange Lounge)  
+All We Are (Live @ The Orange Lounge) 
+
+  
+
+  
+  
+### <a name="aa"></a> Say(All I Need) 
+（2021 7.2更新）
+Click to watch this song's video: <iframe width="560" height="315" src="https://www.youtube.com/embed/GRSZpV6WIuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+歌词翻译：
+
+Do you know where your heart is
+
+你可知内心所属何地
+
+Do you think you can find it
+
+你觉得你能找寻它吗
+
+Did you trade it for something, somewhere
+
+你是否仅以它来换取他物
+
+Better just to have it
+
+但最终发现拥有本身即为美好
+
+Do you know where your love is
+
+你可找到属于你的爱
+
+Do you think that you lost it
+
+你是否察觉你已失去了它
+
+You felt it so strong but nothings
+
+你的情感如此强烈 然而无事
+
+Turned out how you want it
+
+塑成了你想要的模样
+
+Well bless my soul
+
+祝福我的灵魂
+
+You're a lonely soul
+
+一个孤独的灵魂
+
+Cause you wont let go
+
+因为你不曾愿意放手
+
+Of anything you hold
+
+放手一切手中紧握之物
+
+Well all I need is the air I breathe
+
+一切我所渴求的，即是可供我呼吸的空气
+
+And a place to rest my head
+
+以及一片精神栖息之地
+
+Do you know what your fate is
+
+你可知你的命运如何
+
+And are you trying to shake it
+
+你是否正甩它而去
+
+You're doing your best and
+
+你正拼尽全力，且
+
+You're best look
+
+展现出最棒的姿态
+
+You're praying that you'll make it
+
+祈祷你得以成功
+
+Well bless my soul
+
+亲吻我的灵魂
+
+You're a lonely soul
+
+一个孤独的灵魂
+
+Cause you wont let go
+
+因为你不曾愿意放手
+
+Of anything you hold
+
+放手一切手中紧握之物
+
+Well all I need is the air I breathe
+
+一切我所渴求的，即是可供我呼吸的空气
+
+And a place to rest my head
+
+以及一片精神栖息之地
+
+Said all I need is the air I breathe
+
+喊出 一切我所渴求的，即是可供我呼吸的空气
+
+And a place to rest my head
+
+以及一片精神栖息之地
+
+Do you think you can find it
+
+你觉得你能找寻它吗
+
+Do you think you can find it
+
+你觉得你能找寻它吗
+
+Do you think you can find it
+
+你觉得你能找寻它吗
+
+Better than you have it
+
+宁愿抛出也不愿拥有？
+
+Do you think you can find it
+
+你觉得你能找寻它吗
+
+Do you think you can find it
+
+你觉得你能找寻它吗
+
+Do you think you can find it
+
+你觉得你能找寻它吗
+
+Better than you have it
+
+宁愿抛出也不愿拥有
+
+Better than you have it
+
+宁愿抛出也不愿拥有
+
+Said all I need is the air I breathe
+
+喊出 一切我所渴求的，即是可供我呼吸的空气
+
+And a place to rest my head
+
+以及一片精神栖息之地
+
+Said all I need is the air I breathe
+
+喊出 一切我所渴求的，即是可供我呼吸的空气
+
+And a place to rest my head
+
+以及一片精神栖息之地
+
+Do you know where the end is
+
+你是否知道这一切的尽头在何处
+
+Do you think you can see it
+
+你是否觉得你可以看清
+
+Until you get there
+
+在到达那里之前
+
+Go on
+
+坚持下去
+
+Go ahead and scream it
+
+向前奔跑 为其欢呼
+
+Just say?
+
+且言？
+ 
+歌词赏析:
+
+这首歌的感情比较交杂。歌曲表现的是一个逐梦者在人生进程中，渴望与内心生活发生的冲突。他追逐着梦寐以求的生活和理想，但为换取这一切，心力交瘁。像歌中所说，他已将心灵换出。由于矛盾的重重交叠，他的生活总不能如他所愿。
+
+逐梦者渴求的其实不多，仅需要“空气”以及“可供精神栖息的土地”。面对生活的压力，他只希望能够得到心灵上的宽慰与放松。
+
+这首歌由乐队五人（当时07年Brian还没加入）共同编曲作词而成。也许“Say(All I Need)”映照了乐队成员们在发展乐队的心路历程或内心生活，同时也让每一个听到的人感同身受。
+
+如果你也在生活中经历理想与现实的矛盾，此歌与你共勉。
+
