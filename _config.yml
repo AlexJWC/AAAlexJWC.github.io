@@ -6,7 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   基于Jekyll的音乐分享网站，由陈嘉纬创建于2021.
 
 permalink: ':title/'
-baseurl: "/fresh" # the subpath of your site, e.g. /blog
+#baseurl: "/fresh" # the subpath of your site, e.g. /blog
+baseurl: ""
 url: "artemsheludko.pw" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Social
