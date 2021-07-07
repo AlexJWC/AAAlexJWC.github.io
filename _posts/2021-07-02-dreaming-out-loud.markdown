@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "【全专歌词解析】《Dreaming Put Loud》"
+title:  "【巨长帖】【全专歌词解析】《Dreaming Out Loud》"
 date:   2021-06-05 23:08:41 +0800
-image: ../DOL.jpg
+image: DOL.jpg
 description: 解析Dreaming Put Loud全专歌词
 ---
 Hi,I'm Alex.这一分区我将研读OneRepublic的专辑《Dreaming Out Loud》的全部歌词。 
@@ -34,7 +34,7 @@ OneRepublic是来自科罗拉多斯普林斯的一支流行摇滚乐队，于200
 
 标准版本：  
 1.[Say(All I Need)](#aa)  
-2.Mercy  
+2.[Mercy](#bb)  
 3.Stop and Stare  
 4.Apologize  
 5.Goodbye, Apathy  
@@ -73,7 +73,13 @@ All We Are (Live @ The Orange Lounge)
   
 ### <a name="aa"></a> Say(All I Need) 
 （2021 7.2更新）
-Click to watch this song's video: <iframe width="560" height="315" src="https://www.youtube.com/embed/GRSZpV6WIuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+MV On Youtube: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GRSZpV6WIuU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+If you don't have a Ladder, watch it on Bilibili
+
+如果你没有翻墙，在Bilibili上观看：
+<iframe src="//player.bilibili.com/player.html?aid=333090330&bvid=BV1BA411G7gf&cid=337534845&page=47" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 歌词翻译：
 
@@ -270,4 +276,19 @@ Just say?
 这首歌由乐队五人（当时07年Brian还没加入）共同编曲作词而成。也许“Say(All I Need)”映照了乐队成员们在发展乐队的心路历程或内心生活，同时也让每一个听到的人感同身受。
 
 如果你也在生活中经历理想与现实的矛盾，此歌与你共勉。
+
+### <a name="aa"></a> Mercy
+
+MV on Youtube
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CrymicX875M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+MV on Bilibili
+
+<iframe src="//player.bilibili.com/player.html?aid=333090330&bvid=BV1BA411G7gf&cid=337534977&page=48" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+
+
+
+
 

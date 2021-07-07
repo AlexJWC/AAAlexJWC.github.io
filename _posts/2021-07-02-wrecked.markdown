@@ -8,6 +8,10 @@ description: 梦龙发新歌了 自己做的翻译+赏析
 
 Translated by Alex (2021.07.02)
 
+Lyric MY on Youtube:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4mJayYlfcWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 Days pass by and my eyes stay dry, and I think that I'm okay
 
