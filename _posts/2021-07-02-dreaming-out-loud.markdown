@@ -5,8 +5,10 @@ date:   2021-06-05 23:08:41 +0800
 image: DOL.jpg
 description: 解析Dreaming Put Loud全专歌词
 ---
-Hi,I'm Alex.这一分区我将研读OneRepublic的专辑《Dreaming Out Loud》的全部歌词。 
-我挖了一个大坑，我知道。
+Hi,I'm Alex.这一分区为OneRepublic的专辑《Dreaming Out Loud》的全部歌词翻译+赏析。 
+翻译与赏析均为本人制作。
+
+Read Below ↓
 
 乐队简介：
 OneRepublic是来自科罗拉多斯普林斯的一支流行摇滚乐队，于2002年创建。他们的歌曲风格是流行+抒情+激昂。
@@ -28,7 +30,7 @@ OneRepublic是来自科罗拉多斯普林斯的一支流行摇滚乐队，于200
 
 专辑简介：
 ![alt jpg](../dolcd.jpg)
-此专为OneRepublic的首张专辑，由Interscope Records发行于9.20.2007。这张专辑里收录了乐队早期的许多名曲，如《Apologize》《All Fall Down》。整专的风格偏向为柔情+激昂，比较适合平时听欧美抒情的人。
+此专为OneRepublic的首张专辑（Debut Album），由Interscope Records发行于9.20.2007。这张专辑里收录了乐队早期的许多名曲，如《Apologize》《All Fall Down》。整专的风格偏向为柔情+激昂，比较适合平时听欧美抒情的人。
 
 曲目一览（点击跳转单曲歌词赏析）
 
@@ -286,6 +288,249 @@ MV on Youtube
 MV on Bilibili
 
 <iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=333090330&bvid=BV1BA411G7gf&cid=337534977&page=48" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+歌词翻译：
+
+Angel of mercy
+
+怜悯的天使
+
+how did you find me?
+
+你是如何找到了我
+
+Where did you read my story?
+
+你是如何读到了我的故事？
+
+Pulled from the papers
+
+于纸页中翻到？
+
+desperate and hardened
+
+我苦苦踱步 孤注一掷
+
+Seeking a momentary fix
+
+寻求一瞬间的转机
+
+All I wanted to say, all I wanted to do
+
+一切我想说的，想实现的
+
+Is fall apart now
+
+全部支离破碎了
+
+All I wanted to feel, I wanted to love
+
+一切我渴望感受的，渴望去爱的
+
+It's all my fault now
+
+全部归属于我的过错
+
+A tragedy I fear
+
+我所惧怕的悲剧
+
+Angel of mercy
+
+怜悯的天使 
+
+how did you find me?
+
+你是如何找到了我
+
+How did you pick me up again?
+
+你是如何让我重拾希望？
+
+Angel of mercy
+
+怜悯的天使
+
+how did you move me?
+
+你是如何打动我的心
+
+Why am I on my feet again?
+
+为何我又重新站了起来？
+
+I see you
+
+我目睹了你
+
+Whoa whoa whoa
+
+I feel you
+
+我觉察了你
+
+Whoa whoa whoa
+
+Fortress of daylight
+
+光天之下
+
+Caught me on standby
+
+你我并肩
+
+Waiting to catch the quickest plane
+
+等待着搭乘天空中最快的飞机
+
+To fly me to nowhere
+
+带我去无处
+
+It's better than somewhere
+
+也好过某处
+
+That's where I've been and nothings changed
+
+这便是我 曾未改变
+
+All I wanted to say, all I wanted to do
+
+一切我想说的，想实现的
+
+Is fall apart now
+
+全部支离破碎了
+
+All I wanted to feel, I wanted to love
+
+一切我渴望感受的，渴望去爱的
+
+It's all my fault now
+
+全部归属于我的过错
+
+A tragedy for sure
+
+果真一场悲剧
+
+Angel of mercy
+
+怜悯的天使 
+
+how did you find me?
+
+你是如何找到了我
+
+How did you pick me up again?
+
+你是如何让我重拾希望？
+
+Angel of mercy
+
+怜悯的天使
+
+how did you move me?
+
+你是如何打动我的心
+
+Why am I on my feet again?
+
+为何我又重新站了起来？
+
+I see you
+
+我目睹了你
+
+Whoa whoa whoa
+
+I feel you
+
+我觉察了你
+
+Whoa whoa whoa
+
+I'm so lost in you
+
+我如此迷恋你
+
+A tragedy, it seemed to be over now
+
+这场悲剧 似乎已结束了
+
+A tradegy it seemed to be
+
+这确也成为了另一场悲剧
+
+Angel of mercy
+
+怜悯的天使 
+
+how did you find me?
+
+你是如何找到了我
+
+How did you pick me up again?
+
+你是如何让我重拾希望？
+
+Angel of mercy
+
+怜悯的天使
+
+how did you move me?
+
+你是如何打动我的心
+
+Why am I on my feet again?
+
+为何我又重新站了起来？
+
+I see you
+
+我目睹了你
+
+Whoa whoa whoa
+
+I feel you
+
+我觉察了你
+
+Whoa whoa whoa
+
+I feel you
+
+我觉察了你
+
+Whoa whoa whoa
+
+I feel you
+
+我觉察了你
+
+Whoa whoa whoa
+
+歌词赏析：
+
+这首歌的情绪已显然从歌词流露出了。个人因人生的绝望与挫败而跌倒，确因外界力量和自身的信念而重新站了起来。这里歌曲作者以Angel Of Mercy（怜悯的天使）为形 感谢一切无形之中内心增加的勇气与信念，也感谢命运的转折与祝福。
+
+歌中也说：
+
+“
+    A tragedy, it seemed to be over now
+
+    这场悲剧 似乎已结束了
+
+    A tradegy it seemed to be
+
+    这确也成为了另一场悲剧
+
+                            ”
+
+这两句词也抒发了作词者本身的感慨，即唯有人生的跌宕起伏才填充丰富了一个人。
+
+
 
 
 
