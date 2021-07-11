@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "【巨长帖】【全专歌词解析】《Dreaming Out Loud》"
-date:   2021-06-05 23:08:41 +0800
-image: DOL.jpg
+title: "【巨长帖】【全专歌词解析】《Dreaming Out Loud》"
+date:   2021-06-05 23:08:41
+img: DOL.jpg
 description: 解析Dreaming Put Loud全专歌词
 ---
 Hi,I'm Alex.这一分区为OneRepublic的专辑《Dreaming Out Loud》的全部歌词翻译+赏析。 
@@ -29,7 +29,7 @@ OneRepublic是来自科罗拉多斯普林斯的一支流行摇滚乐队，于200
 乐队照片：
 
 专辑简介：
-![alt jpg](../dolcd.jpg)
+![alt jpg](..\assets\img\dolcd.jpg)
 此专为OneRepublic的首张专辑（Debut Album），由Interscope Records发行于9.20.2007。这张专辑里收录了乐队早期的许多名曲，如《Apologize》《All Fall Down》。整专的风格偏向为柔情+激昂，比较适合平时听欧美抒情的人。
 
 曲目一览（点击跳转单曲歌词赏析）

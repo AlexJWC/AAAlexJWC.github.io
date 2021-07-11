@@ -2,7 +2,7 @@
 layout: post
 title:  "Wrecked-Imagine Dragons"
 date:   2021-07-02 11:44:00
-img: wrecked-imagine drgaons.jpg
+img: wreckedimaginedragons.jpg
 description: 梦龙发新歌了 自己做的翻译+赏析
 ---
 
