@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  【永久更新】【音乐杂谈】
-permalink: /talk/
+title:  "我与梦龙乐队-Imagine Dragons And Me"
+date:   2021-07-12 01:48:16
+img: ig1.jpg
+description: 讲述三年来我与梦龙乐队的故事
 ---
-我与梦龙乐队-Imagine Dragons and Me.
 
 再过五天，即是梦龙四专Origins的首单Natural发行之日三周年。
 
