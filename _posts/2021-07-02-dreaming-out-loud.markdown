@@ -37,7 +37,7 @@ OneRepublic是来自科罗拉多斯普林斯的一支流行摇滚乐队，于200
 标准版本：  
 1.[Say(All I Need)](#aa)  
 2.[Mercy](#bb)  
-3.Stop and Stare  
+3.[Stop and Stare](#cc)  
 4.Apologize  
 5.Goodbye, Apathy  
 6.All Fall Down  
@@ -531,7 +531,170 @@ Whoa whoa whoa
 这两句词也抒发了作词者本身的感慨，即唯有人生的跌宕起伏才填充丰富了一个人。
 
 
+### <a name="cc"></a> Stop and Stare
 
+MV on Youtube:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtNS1afUOnE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+MV on Bilibili:
+<iframe width="560" height="315" src="//player.bilibili.com/player.html?aid=333090330&bvid=BV1BA411G7gf&cid=337534954&page=49" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+歌词翻译：
+
+This town is colder now, I think it's sick of us
+
+城镇冷寂 它或许厌倦了我们
+
+It's time to make our move, I'm shakin' off the rust
+
+我抖落身上的尘土 迈步离去
+
+I've got my heart set on anywhere but here
+
+我的心已不归属这里
+
+I'm staring down myself, counting up the years
+
+我反望自己 细数过去的日子 
+
+Steady hands just take the wheel
+
+稳重的手 紧握车把
+
+And every glance is killing me
+
+每回头一瞥 刺伤了我的心
+
+Time to make one last appeal
+
+为了我的人生
+
+For the life I live
+
+最后奋力一搏
+
+Stop and stare
+
+驻足 远望
+
+I think I'm moving, but I go nowhere
+
+脚似永远无法迈开
+
+Yeah, I know that everyone gets scared
+
+我知道 无人不恐慌
+
+But I'll become what I can't be, oh
+
+但我得以打破人生的囹圄 成为新的自己
+
+Stop and stare
+
+驻足 远望
+
+You start to wonder why you're here not there
+
+你抱怨身不由己
+
+And you'd give anything to get what's fair
+
+你愿为了所谓的公平 付出一切
+
+But fair ain't what you really need
+
+然而公平并非你需要的
+
+Oh, can you see what I see?
+
+你能理解我的话吗
+
+They're tryin' to come back, all my senses push
+
+一切仿佛打回原形 压迫感骤升
+
+Untie the weight bags, I never thought I could
+
+我从未想过 我能抛下一切压力
+
+Steady feet, don't fail me now
+
+稳健的脚步 别辜负了我
+
+I'ma run 'til you can't walk
+
+我要逃离这一切
+
+Something pulls my focus out
+
+然而我的心再度被牵引
+
+And I'm standing down
+
+无力回天
+
+Stop and stare
+
+驻足 远望
+
+I think I'm moving, but I go nowhere
+
+脚似永远无法迈开
+
+Yeah, I know that everyone gets scared
+
+我知道 无人不恐慌
+
+But I'll become what I can't be, oh
+
+但我得以打破人生的囹圄 成为新的自己
+
+Stop and stare
+
+驻足 远望
+
+You start to wonder why you're here not there
+
+你抱怨身不由己
+
+And you'd give anything to get what's fair
+
+你愿为了所谓的公平 付出一切
+
+But fair ain't what you really need
+
+然而公平并非你需要的
+
+Oh, you don't need
+
+你并不需要它
+
+top and stare
+
+驻足 远望
+
+I think I'm moving, but I go nowhere
+
+脚似永远无法迈开
+
+Yeah, I know that everyone gets scared
+
+我知道 无人不恐慌
+
+But I'll become what I can't be, oh
+
+但我已打破人生的囹圄 成为新的自己
+
+Oh, do you see what I see?
+
+你能理解我的话语吗
+
+歌词赏析：
+
+这首歌讲述了每一个人都会经历的遭遇： 或陷入过去无尽的悲伤痛苦不愿抬头展望未来，或为过去不平遭遇而愤慨，无法脱离囹圄。每当想重新抬头，面对新生活的时候，过去一把无形的
+铁钩，总想把我们钩回过去的深渊。
+
+词曲作者鼓励每一个人抛弃过去，突破自我内心，活好当下，成为新的自己 I'll become what I can't be.
 
 
 
