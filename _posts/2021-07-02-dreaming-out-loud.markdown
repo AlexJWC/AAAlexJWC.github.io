@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "【巨长帖】【全专歌词解析】《Dreaming Out Loud》"
-date:   2021-06-05 23:08:41
+date:   2021-07-16 16:29:10
 img: DOL.jpg
 description: 解析Dreaming Put Loud全专歌词
 ---
@@ -35,38 +35,38 @@ OneRepublic是来自科罗拉多斯普林斯的一支流行摇滚乐队，于200
 曲目一览（点击跳转单曲歌词赏析）
 
 标准版本：  
-1.[Say(All I Need)](#aa)  
+1.[Say(All I Need)](#aa) 
 2.[Mercy](#bb)  
-3.[Stop and Stare](#cc)  
-4.Apologize  
-5.Goodbye, Apathy  
-6.All Fall Down  
-7.Tyrant  
-8.Prodigal  
-9.Won't Stop  
-10.All We Are  
-11.Some to Save You  
-12.Come Home  
-13.Apologize(remix)  
+3.[Stop and Stare](#cc) 
+4.[Apologize](#dd) 
+5.Goodbye, Apathy 
+6.All Fall Down 
+7.Tyrant 
+8.Prodigal 
+9.Won't Stop 
+10.All We Are 
+11.Some to Save You 
+12.Come Home 
+13.[Apologize(remix)](#dd) 
 
 PAL Bonus Track：  
-Dreaming Out Loud
-Apologize(remix)  
+Dreaming Out Loud 
+Apologize(remix) 
 
-附加：（其余全部版本）  
+附加：（其余全部版本） 
 Something's Not Right Here   
-Hearing Voices  
-Sleep (Remix)  
-Stop and Stare (Live video)  
-Apologize (Live video)  
-All Fall Down (Live video)  
-All We Are (Original version)  
-Too Easy (included in the "Stop and Stare" 3 Hit Pack on iTunes)  
-Trap Door  
-Sleep (Non-LP Version)  
-Come Home (featuring Sara Bareilles)  
-Mercy (Radio 1 Live Lounge)(Duffy cover)  
-All Fall Down (Live @ The Orange Lounge)  
+Hearing Voices 
+Sleep (Remix) 
+Stop and Stare (Live video) 
+Apologize (Live video) 
+All Fall Down (Live video) 
+All We Are (Original version) 
+Too Easy (included in the "Stop and Stare" 3 Hit Pack on iTunes) 
+Trap Door 
+Sleep (Non-LP Version) 
+Come Home (featuring Sara Bareilles) 
+Mercy (Radio 1 Live Lounge)(Duffy cover) 
+All Fall Down (Live @ The Orange Lounge) 
 All We Are (Live @ The Orange Lounge) 
 
   
@@ -696,7 +696,41 @@ Oh, do you see what I see?
 
 词曲作者鼓励每一个人抛弃过去，突破自我内心，活好当下，成为新的自己 I'll become what I can't be.
 
+### <a name="dd"></a> Apologize & Apologize Remix
 
+注：Remix版本为Timbaland的混音作品，歌词一样，固两首放在一起讲。
 
+歌词翻译：
+
+I'm holding on your rope
+
+我紧握
+Got me ten feet off the ground
+And I'm hearing what you say, but I just can't make a sound
+You tell me that you need me
+Then you go and cut me down, but wait
+You tell me that you're sorry
+Didn't think I'd turn around, and say
+
+That it's too late to apologize, it's too late
+I said it's too late to apologize, it's too late
+
+I'd take another chance, take a fall
+Take a shot for you
+And I need you like a heart needs a beat
+But it's nothing new, yeah, yeah
+I loved you with a fire red
+Now it's turning blue, and you say
+Sorry like the angel heaven let me think was you
+But I'm afraid
+
+It's too late to apologize, it's too late
+I said it's too late to apologize, it's too late, whoa
+
+It's too late to apologize, it's too late
+I said it's too late to apologize, it's too late
+I said it's too late to apologize, yeah
+I said it's too late to apologize, yeah
+I'm holding on your rope, got me ten feet off the ground
 
 
