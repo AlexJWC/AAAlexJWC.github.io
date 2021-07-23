@@ -852,9 +852,13 @@ So long, apathy
 
 So don't sit still
 
+别静坐着
 
 Don't you move away from here
 
+别陷入
+
+将你的
 So goodbye apathy
 (As I'm trying)
 So long fancy free
@@ -896,11 +900,24 @@ Everybody is watching you
 Everybody is watching me too
 (Not like I used to)
 Everybody is watching you
+
+所有人都在充满敌意地注视着你
+
 (I can't breathe in)
+
+(我无法呼吸了)
+
 Everybody is watching me too
+
+所有人都在充满敌意地注视着你
+
 (Not like I need to)
 
+(不是我所需要的)
+
 Everybody is watching you
+
+
 (It's breaking ice now to make any movement)
 Everybody is watching me too
 Everybody is watching you
