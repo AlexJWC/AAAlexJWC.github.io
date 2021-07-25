@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "【深度长评·剧透】楚门的世界(The Truman Show) 1998 剧情 科幻"
+title: "【深度长评】楚门的世界(The Truman Show) 1998 剧情 科幻"
 date:   2021-07-23 22:30:00
 img: thetrumanshow.jpg
 description: 开创环境欺骗新概念
