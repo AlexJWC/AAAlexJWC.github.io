@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: 欢迎来到Alex's Music Club
 ---
 ![alt png](..\assets\img\blogLogo.png)
