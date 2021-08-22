@@ -1,12 +1,16 @@
 ---
 layout: post
-title: 欢迎来到Alex's Music Club
+title: "欢迎来到Alex's Music Club"
+date:   2021-08-22 17:06:00
+img: blogLogo.png
+description: 新人须知
 ---
-![alt png](..\assets\img\blogLogo.png)
 
 感谢访问Alex's Music Club.
 
-此博客由本人陈嘉纬（Alex Chen）建立且一人编写。博客意旨在音乐故事科普&歌词翻译&赏析，适合所有喜欢音乐的人阅读参考。
+此博客由LINKJW（Alex Chen）建立且一人编写。博客意旨在音乐故事科普&歌词翻译&赏析，适合所有喜欢音乐的人阅读参考。
+
+若想订阅该博客，请点击左侧栏目的“订阅”一栏，跟随指示进行操作。
 
 由于网页在开发中，电脑端是适配的最佳选择。手机端有许多适配的问题，同时也有许多让访问者疑惑的操作问题，这里作总体说明。
 
